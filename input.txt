@@ -1,0 +1,7 @@
+recep tayyip erdogan:cse100,cse223,cse225,econ203
+
+donald trump:cse223,cse225,cse456
+
+viladimir putin:cse100,cse225,yda101
+
+angela merkel:cse225,cse223,econ203
